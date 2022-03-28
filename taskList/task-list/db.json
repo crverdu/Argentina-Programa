@@ -16,7 +16,7 @@
       "id": 4,
       "text": "Leer mi libros",
       "day": "Agosto 5 a las 21:00",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
