@@ -16,7 +16,13 @@
       "id": 4,
       "text": "Leer mi libros",
       "day": "Agosto 5 a las 21:00",
-      "reminder": true
+      "reminder": false
+    },
+    {
+      "text": "nueva tarea",
+      "day": "maniana",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
