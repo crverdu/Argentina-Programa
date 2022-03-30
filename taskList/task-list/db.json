@@ -19,8 +19,8 @@
       "reminder": false
     },
     {
-      "text": "nueva tarea",
-      "day": "maniana",
+      "text": "leer angular",
+      "day": "Maniana",
       "reminder": true,
       "id": 5
     }
